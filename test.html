@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Code Editor</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="dropdown">
+  <button class="adm-button" onclick="myFunction0()">File Explorer</button><br>
+  <div id="myDropdown" class="dropdown-content" style="display:none;">
+   <button class="adm-button1" onclick="myFunction()">1)Index.html</button><br>
+   <button class="adm-button1" onclick="myFunction1()">2)Index.css</button><br>
+   <button class="adm-button1" onclick="myFunction2()">3)Index.js</button><br>
+   <script src="hover.js"></script>
+  </div>
+</div>
+
+<div class="code-area">
+  <textarea id="htmlCode" placeholder="HTML Code" 
+            oninput="showPreview()" style="display:block;"></textarea>
+  <textarea id="cssCode" placeholder="CSS Code" 
+            oninput="showPreview()" style="display:none;"></textarea>
+  <textarea id="jsCode" placeholder="JavaScript Code" 
+            oninput="showPreview()" style="display:none;"></textarea>				
+</div>
+<div class="preview-area">
+  <iframe id="preview-window"></iframe>
+  <script src="j.js"></script>
+</div>
+
+</body>
+</html>
