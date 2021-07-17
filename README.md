@@ -1,4 +1,6 @@
-Run click on <b>test.html</b> file for viewing the results<br>
+How to Run? 
+click and download all the files. 
+Then run the <b>test.html file to view the results</b> 
 DYTE ONLINE TEST SUBMISSION<br>
 TOPIC: FRONTEND<br>
 AIM: TO DESIGN AN ONLINE CODE EDITOR<br>
