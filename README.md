@@ -5,9 +5,8 @@ DYTE ONLINE TEST SUBMISSION<br>
 TOPIC: FRONTEND<br>
 AIM: TO DESIGN AN ONLINE CODE EDITOR<br>
 <br>
-LINK TO VIEW SUBMISSION:
-
-https://drive.google.com/drive/folders/1TWv6U45WfEZoWvYCNCDWW576_jw9v20Z?usp=sharing
+LINK TO VIEW SUBMISSION Screenshots<br>
+https://docs.google.com/document/d/1joCQt10aCFcrDn3qDb1SoX_34q-HBPh5QfpNxRYl4p8/edit?usp=sharing
 <br>EXPLANATION:
 <br>
 <br>
