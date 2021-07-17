@@ -1,5 +1,4 @@
-
-NAME: ROOPIKHA GANESH<br>
+Run click on <b>test.html</b> file for viewing the results<br>
 DYTE ONLINE TEST SUBMISSION<br>
 TOPIC: FRONTEND<br>
 AIM: TO DESIGN AN ONLINE CODE EDITOR<br>
